@@ -1,0 +1,2 @@
+Programmers have utilized the C++ stack in many different ways to achieve goals involving variable evaluation
+and functional operations within a codebase .

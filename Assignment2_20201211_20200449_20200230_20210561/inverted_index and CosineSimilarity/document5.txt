@@ -1,0 +1,1 @@
+Bjarne Stroustrup developed C++ at Bell Labs in the early 1980s to merge the best advantages of several other languages .

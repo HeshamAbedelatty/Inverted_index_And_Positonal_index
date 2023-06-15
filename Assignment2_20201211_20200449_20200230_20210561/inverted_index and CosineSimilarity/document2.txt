@@ -1,0 +1,2 @@
+It was developed as a cross-platform improvement of C to provide developers with a higher
+degree of control over memory and system resources.

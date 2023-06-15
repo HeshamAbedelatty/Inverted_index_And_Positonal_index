@@ -1,0 +1,2 @@
+Another limit to C++ is the presence of security issues associated with the availability of pointers ,
+global variables , and friend functions .

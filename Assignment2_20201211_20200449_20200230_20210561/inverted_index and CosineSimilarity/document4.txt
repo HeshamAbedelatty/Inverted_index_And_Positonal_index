@@ -1,0 +1,2 @@
+Despite being a high-level language , since C++ is still close to C it can be used for
+low-level manipulation due to its close relation with machine language.

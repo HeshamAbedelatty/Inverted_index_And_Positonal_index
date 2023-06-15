@@ -1,0 +1,1 @@
+C++ shares some of the infamously hard to understand concepts that characterized C.

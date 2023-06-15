@@ -1,0 +1,3 @@
+When C++ was new , object-oriented programming was just coming on the scene .
+This revolutionary type of computer programming transformed the coding world with its promise of more
+sophisticated virtual data types and objects .

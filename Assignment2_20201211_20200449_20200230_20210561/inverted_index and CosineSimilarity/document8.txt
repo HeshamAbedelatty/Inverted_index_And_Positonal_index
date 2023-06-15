@@ -1,0 +1,2 @@
+For an excellent example of object-oriented programming in C++ ,
+one of the most notable and useful features of the language was the C++ stack .
